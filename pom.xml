@@ -13,6 +13,7 @@
   </properties>
 
   <modules>
-    <module></module>
+    <module>ai-03-ollama-chat</module>
+    <module>ai-05-prompt-templates</module>
   </modules>
 </project>
